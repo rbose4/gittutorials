@@ -1,1 +1,1 @@
-"Git tutorials  - Master Shifu"
+"Git tutorials 2.0 - Master Shifu"
