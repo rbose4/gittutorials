@@ -1,0 +1,4 @@
+Add the details of the stories that you are working on here.
+
+Developer 1 : Story details, status
+Developer 2: Story details, status
